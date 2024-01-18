@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  qbittorrentnox:
+  - apiVersion: v2
+    appVersion: 4.6.3-1
+    created: "2024-01-18T22:12:30.808083471+01:00"
+    description: A Helm chart for Kubernetes
+    digest: c977f4a7934a5a675b867aa57ed23b9493db56dcbfae43804ad7328f89b05fce
+    name: qbittorrentnox
+    type: application
+    urls:
+    - qbittorrentnox-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-01-18T22:12:30.807657477+01:00"
